@@ -1,3 +1,1 @@
-# foobarBrailleTranslator
-
-## First Foobar Question
+# foo.bar challenges
